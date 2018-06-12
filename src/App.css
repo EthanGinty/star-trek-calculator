@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-image: url("/img/star-trek-space-background-11.jpg");
+  height: 170px;
+  padding: 20px;
+  bottom:0;
+}
+
+.App-title {
+  text-align: left;
+  width:200px;
+  margin-top:90px;
+  color:gold;
+  font-size: 1.5em;
+}
+
+.App-area {
+  top:0;
+  font-size: large;
+  border: 5px black solid;
+}
+.body {
+  background-color: rgba(192, 192, 192, 0.911);
+  position: relative;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+  padding-bottom:30px;
+}
+.seriesChoice {
+  padding-top:30px;
+}
+#series {
+  border: 2px solid grey;
+}
+#episodeInfo {
+}
+#episodePicture {
+  width:350px;
+  height:350px;
+  display:block;
+  padding-left:38%;
+}
